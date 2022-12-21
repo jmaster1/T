@@ -1,0 +1,14 @@
+{
+    "name": "tcom",
+    "version": "0.1.0",
+    "displayName": "TCom",
+    "description": "Share TCom implementation",
+    "unity": "2022.1",
+    "keywords": [
+        "TCom"
+    ],
+    "author": {
+        "name": "timur",
+        "email": "timur.kozlov@gmail.com"
+    }
+}
